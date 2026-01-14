@@ -21,3 +21,6 @@ This is not just a chatbot. It is a **Reasoning Engine** designed to listen to u
 
 ---
 *"The obstacle is the way."*
+
+
+<img width="1024" height="1536" alt="6d77a3b9-94ea-4f69-a307-87dce7e35a35" src="https://github.com/user-attachments/assets/2f721cea-9251-4130-a0f9-40a668d975b4" />
